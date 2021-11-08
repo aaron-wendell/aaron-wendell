@@ -1,5 +1,5 @@
 ### Olá! Sou Aaron Wendell 👋 
-[![Aaron GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/api?tsuna10vongola={tsuna10vongola}&theme=dracula)]
+<br>
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tsuna10vongola)
 <div style="display: inline-block"><br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
