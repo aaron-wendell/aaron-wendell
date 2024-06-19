@@ -30,8 +30,7 @@
 - 🔭 I’m currently working on `Buy More Followers` <br> 
 - 🌱 I’m currently learning `Web & Mobile Development` <br> 
 - 👯 I’m looking to collaborate on `open sorce projects` <br> 
-- 📍 Actually livin' in `Franca-SP` <br>
-- ⚡ Fun fact: `U're now counted as a visitor` <br> <br>
+- 📍 Actually livin' in `Franca-SP` <br> <br>
 
 ✨ **Thanks for visiting me** ✨
 
