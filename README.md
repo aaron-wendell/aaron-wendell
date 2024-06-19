@@ -67,15 +67,13 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg"/>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"/>
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="30" width="40" />
+  <img align="center" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress"  />
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-                                                                                                                
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-                                                                                                                                                          
+                                                                                                                                                                                                                                                                          
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aaron-wendell&theme=tokyonight&hide_border=false)
 
 </div>                                        
