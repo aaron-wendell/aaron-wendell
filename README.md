@@ -1,6 +1,6 @@
 <h1 align="center"> 🚀 Welcome to my Profile 🚀 </h1>
 
-<h3 align="center"> Pls, feel free to check a little more of me in medias below </h3>
+<h3 align="center"> Please, feel free to check a little more of me in medias below </h3>
 
 
 
