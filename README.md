@@ -27,8 +27,8 @@
 - 🔭 I’m currently working on `Buy More Followers` <br> 
 - 🌱 I’m currently learning `Web & Mobile Development` <br> 
 - 👯 I’m looking to collaborate on `open sorce projects` <br> 
-- 📍  Actually livin' in `Franca-SP` <br> <br>
-- 😎 Please give a look at my <a href="https://aaron-wendell.vercel.app/">portfolio</a> 
+- 📍  Actually livin' in `Franca-SP` <br> 
+- 😎 Please give a look at my <a href="https://aaron-wendell.vercel.app/">portfolio</a> <br><br>
 
 ✨ **Thanks for visiting me** ✨
 
