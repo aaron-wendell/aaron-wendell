@@ -24,7 +24,7 @@
 
 <p align="left">
 
-- 🔭 I’m currently working on <a href="https://www.buymorefollowers.com/">`Buy More Followers`</a> <br> 
+- 🔭 I’m currently working as a Independent Security Consultant </a> <br> 
 - 🌱 I’m currently learning `Web & Mobile Development` <br> 
 - 👯 I’m looking to collaborate on `open sorce projects` <br> 
 - 📍  Actually livin' in `Franca-SP` <br> 
