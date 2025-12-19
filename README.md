@@ -25,7 +25,7 @@
 <p align="left">
 
 - 🔭 I’m currently working as a `Independent Security Consultant` </a> <br> 
-- 🌱 I’m currently learning `Web & Mobile Development` <br> 
+- 🌱 I’m currently learning `Cybersecurity` <br> 
 - 👯 I’m looking to collaborate on `open sorce projects` <br> 
 - 📍  Actually livin' in `Franca-SP` <br> 
 - 😎 Please give a look at my <a href="https://aaron-wendell.vercel.app/">portfolio</a> <br><br>
